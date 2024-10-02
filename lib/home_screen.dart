@@ -18,7 +18,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   void initializeState() async {
     _w3mService = W3MService(
-      projectId: 'ed60d060cb10c9c25ef44966116464fa',
+      projectId: 'My project Id, but I cant show you',
       metadata: const PairingMetadata(
         name: 'Web3Modal Flutter Example',
         description: 'Web3Modal Flutter Example',
